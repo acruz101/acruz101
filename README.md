@@ -8,7 +8,7 @@ Below, I provide a list of my skills and highlighted projects showcasing these s
   + SQLite, Python
 
 ## [Python]()
-+ **[Spam V. Ham Email Classifier - UC Berkeley Data 100 Principles & Techniques of Data Science Course Project]**
++ **[Spam V. Ham Email Classifier - UC Berkeley Data 100 Principles & Techniques of Data Science Course Project](https://github.com/acruz101/logistic-spam-classifier)**
   + Python Libraries:  Scikit-learn, Natural Language Toolkit (NLTK), Seaborn, and Matplotlib
   + Topics Covered: Logistic Regression, EDA, Feature Engineering, Feature/Model Selection, Cross Validation
 + **[A Good Match - UC Berkeley Machine Learning and Data Analytics Course Project](https://github.com/acruz101/aGoodMatch)**
