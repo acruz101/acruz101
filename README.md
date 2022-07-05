@@ -10,9 +10,6 @@ Below, I provide a list of my skills and highlighted projects showcasing these s
   + SQLite, Pandas, Python, sqlalchemy, Jupyter Notebook
 
 ## [Python]()
-+ **[Exploratory Data Analysis - UC Berkeley Data 100 Principles & Techniques of Data Science Course Project]()**
-  + Python Libraries:  Scikit-learn, Natural Language Toolkit (NLTK), Seaborn, and Matplotlib
-  + Topics Covered: EDA, ...
 + **[Spam V. Ham Email Classifier - UC Berkeley Data 100 Principles & Techniques of Data Science Course Project](https://github.com/acruz101/logistic-spam-classifier)**
   + Python Libraries:  Scikit-learn, Natural Language Toolkit (NLTK), Seaborn, and Matplotlib
   + Topics Covered: Logistic Regression, EDA, Feature Engineering, Feature/Model Selection, Cross Validation
