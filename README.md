@@ -3,9 +3,11 @@ Below, I provide a list of my skills and highlighted projects showcasing these s
 
 ## [SQL](https://github.com/acruz101/SQL-Projects)
 + **[LinkedIn Course: SQL Code Challenges](https://github.com/acruz101/SQL-Projects/tree/main/SQL%20Coding%20Challenges%20Exercise%20Files)**
-  + SQLite
+  + SQLite, SQLiteStudio
 + **[UC Berkeley Workshop: Databases and SQL](https://github.com/acruz101/SQL-Projects/tree/main/UCB-SCF-workshop)**
-  + SQLite, Python
+  + SQLite, Python, Jupyter Notebook
++ **[UC Berkeley Data 100 SQL Lab/Workshop](https://github.com/acruz101/SQL-Projects/tree/main/UCB-DATA-100-workshop)**
+  + SQLite, Pandas, Python, sqlalchemy, Jupyter Notebook
 
 ## [Python]()
 + **[Spam V. Ham Email Classifier - UC Berkeley Data 100 Principles & Techniques of Data Science Course Project](https://github.com/acruz101/logistic-spam-classifier)**
