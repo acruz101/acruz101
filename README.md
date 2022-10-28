@@ -1,6 +1,12 @@
 # Hello, I’m Anika! 👋
 Below, I provide a list of my skills and highlighted projects showcasing these skills.
 
+## [Ruby, HTML/CSS, JS](https://github.com/acruz101/SQL-Projects)
++ **[UC Berkeley CS 169 Software Engineering Course: ActionMap Skeleton Code](https://github.com/cs169/hw-agile-iterations)**
+  + Final Product: https://desolate-fjord-17131.herokuapp.com (I am unable to provide my final solution on a public repo)
++ **[UC Berkeley CS 169 Software Engineering Course: Rotten Potatoes Skeleton Code](https://github.com/saasbook/rottenpotatoes-rails-intro)**
+  + Final Product: https://mysterious-wildwood-56143.herokuapp.com (I am unable to provide my final solution on a public repo)
+
 ## [SQL](https://github.com/acruz101/SQL-Projects)
 + **[LinkedIn Course: SQL Code Challenges](https://github.com/acruz101/SQL-Projects/tree/main/SQL%20Coding%20Challenges%20Exercise%20Files)**
   + SQLite, SQLiteStudio
