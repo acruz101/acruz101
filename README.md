@@ -6,7 +6,7 @@ Below, I provide a list of my skills and highlighted projects showcasing these s
   + Final Product: https://desolate-fjord-17131.herokuapp.com (I am unable to provide my final solution on a public repo)
 + **[UC Berkeley CS 169 Software Engineering Course: Rotten Potatoes Skeleton Code](https://github.com/saasbook/rottenpotatoes-rails-intro)**
   + Final Product: https://mysterious-wildwood-56143.herokuapp.com (I am unable to provide my final solution on a public repo)
-+ **[UDemy Web Development 2022 Course with Colt Steele: Farm Stand Management Web App](https://github.com/acruz101/mongooseWithExpress)
++ **[UDemy Web Development 2022 Course with Colt Steele: Farm Stand Management Web App]**(https://github.com/acruz101/mongooseWithExpress)
   + Uses MongoDB, Express Node.JS, and Bootstrap
 
 ## [SQL](https://github.com/acruz101/SQL-Projects)
