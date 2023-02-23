@@ -3,10 +3,12 @@ Below, I provide a list of my skills and highlighted projects showcasing these s
 
 
 ## [SQL](https://github.com/acruz101/SQL-Projects)
-+ **[Data Analysis of Trending YouTube Videos Using MySQL](https://github.com/acruz101/Trending-YT-Videos-SQL)**
-  + MySQL (MySQL Workbench)
 + **[LinkedIn Course: SQL Code Challenges](https://github.com/acruz101/SQL-Projects/tree/main/SQL%20Coding%20Challenges%20Exercise%20Files)**
   + SQLite, SQLiteStudio
++ **[Data Analysis of Trending YouTube Videos Using MySQL](https://github.com/acruz101/Trending-YT-Videos-SQL)**
+  + MySQL (MySQL Workbench)
++ **[Mini SQL Project: Superstore Data](https://github.com/acruz101/Superstore-SQL-Project)**
+  + MySQL (MySQL Workbench)
 + **[UC Berkeley Workshop: Databases and SQL](https://github.com/acruz101/SQL-Projects/tree/main/UCB-SCF-workshop)**
   + SQLite, Python, Jupyter Notebook
 + **[UC Berkeley Data 100 SQL Lab/Workshop](https://github.com/acruz101/SQL-Projects/tree/main/UCB-DATA-100-workshop)**
